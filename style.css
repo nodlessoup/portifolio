@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
 
 :root {
-    --cor-principal: #012345;
-    --cor-secundaria: #234567;
-    --cor-destaque: #456789;
+    --cor-principal: #966a7e;
+    --cor-secundaria: #f3cddb;
+    --cor-destaque: #e9567a;
 }
 
 body {
